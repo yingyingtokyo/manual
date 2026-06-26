@@ -15,6 +15,9 @@ This page provides an overview of software tools developed and maintained by the
 ## River Basins
 
 - **[VICRes](https://github.com/Critical-Infrastructure-Systems-Lab/VICRes):** Extends the VIC hydrologic model to represent reservoir storage and operations. The repo includes python wrappers for optimization and sensitivity analysis.
+  
+  - [Set up for VIC 5.1](./2026-06-25-VIC.md)
+  - [Set up for routing module in VICRes](./2026-06-25-routing.md)
 
 - **[InfeRes](https://github.com/Critical-Infrastructure-Systems-Lab/InfeRes):** A Python package for inferring reservoir water surface area, level and storage volume. Additional resources for InfeRes: [Gathering storage data (for validation purposes) from websites](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-06-16-scraping-a-website/)  
 
